@@ -1,0 +1,6 @@
+node_modules
+.kotlin/
+.gradle/
+build/
+.cxx/
+Pods/

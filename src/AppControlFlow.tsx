@@ -6,6 +6,7 @@ import Toast from './components/Toast';
 import { toastRef } from './util/action';
 
 const AppControlFlow: React.FC = () => {
+  console.log('Test1');
   return (
     <SafeAreaProvider>
       <NavigationContainer>
