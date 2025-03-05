@@ -1,0 +1,9 @@
+node_modules
+.kotlin/
+.gradle/
+build/
+.cxx/
+Pods/
+.yarn/
+.DS_Store
+*.lock
