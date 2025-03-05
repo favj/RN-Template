@@ -54,7 +54,6 @@ const DrawerNavigator: React.FC = () => {
 };
 
 export default () => {
-  console.log('Test');
   return (
     <>
       <StatusBar

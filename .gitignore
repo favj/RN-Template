@@ -4,3 +4,6 @@ node_modules
 build/
 .cxx/
 Pods/
+.yarn/
+.DS_Store
+*.lock
